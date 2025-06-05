@@ -2,6 +2,8 @@
 
 A Python script to monitor Starlink dish diagnostics in real-time, displaying uptime, latency, throughput, and SNR in a colorful ASCII-based terminal interface.
 
+![Terminal interface preview](preview.png)
+
 ## Features  
 - **Real-Time Metrics**:
   - Uptime (days/hours/minutes)

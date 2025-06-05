@@ -7,3 +7,6 @@ env/
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
+
+# Ignore error and debug logs
+logs/
